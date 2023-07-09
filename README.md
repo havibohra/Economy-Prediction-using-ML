@@ -1,5 +1,4 @@
 # Economy-Prediction-using-ML
-PPOC project
 We have used the 'GDP per capita' as an indicator for our submissions.
 
 The data used for our Random Forest Regressor ,Decision Tree Regressor, 
