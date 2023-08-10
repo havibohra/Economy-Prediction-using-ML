@@ -1,5 +1,5 @@
 # Understanding Various Development Indicators
-We have used the 'GDP per capita' as an indicator for our submissions.
+We have used the 'imports of India' as an indicator for our submissions.
 
 The data used for our Random Forest Regressor ,Decision Tree Regressor, 
 Polynomial Regression, Deep Neural Network, Linear Regression is attached in the submission drive.
